@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/gammons/todolist/todolist"
+	"github.com/fxj9a/todolist/todolist"
 	"github.com/skratchdot/open-golang/open"
 )
 
